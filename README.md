@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/Mjood1337/gif/refs/heads/main/Mjood1337.gif" alt="Here is a little bit about me!">
 
 <br />
 
